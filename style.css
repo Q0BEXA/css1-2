@@ -1,0 +1,309 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap');
+
+#p1 {
+  width: 1237px;
+  height: 86px;
+  top: 24px;
+  left: 341px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 72px;
+  font-weight: 700;
+  line-height: 86.4px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 24px;
+  margin-left: 341px;
+  margin-bottom: 37px;
+}
+
+#firstframe {
+  width: Fixed (568px)px;
+  height: Hug (866px)px;
+  top: 147px;
+  left: 55px;
+  gap: 32px;
+  opacity: 0px;
+  margin-left: 55px;
+}
+
+#nightimg {
+  width: 568px;
+  height: 446px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+#night {
+  width: 568px;
+  height: 48px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 12px;
+
+}
+
+#lookup {
+  width: 568px;
+  height: 96px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 16px;
+  color: rgba(65, 70, 81, 1);
+}
+
+#nightmain {
+  width: 568px;
+  height: 144px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-left: -20px;
+  color: rgba(21, 94, 239, 1);
+}
+
+#readmore {
+  width: 177px;
+  box-sizing: border-box;
+  padding-top: 12px;
+  padding-right: 32px;
+  padding-bottom: 12px;
+  padding-left: 32px;
+  gap: 10px;
+  border: 2px;
+  opacity: 0px;
+  text-align: center;
+  border: 2px solid rgba(206, 162, 1, 1);
+  color: rgba(206, 162, 1, 1);
+  margin-top: 32px;
+  margin-left: 55px;
+  font-family: Lato;
+  width: Hug(113px);
+  height: Hug(32px);
+  gap: 0px;
+  opacity: 0px;
+  margin-bottom: 74px;
+}
+
+#magicstart {
+  width: 722px;
+  height: 1, 156px;
+  top: 1087px;
+  left: 55px;
+  gap: 24px;
+  opacity: 0px;
+  margin-top: 74px;
+  margin-left: 55px;
+}
+
+#magic {
+  width: 722px;
+  height: 48px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(0, 0, 0, 1);
+}
+
+#animals {
+  width: 722px;
+  height: 72px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-left: 55px;
+  color: rgba(65, 70, 81, 1);
+}
+
+#hereis {
+  width: 722px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: center;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(0, 199, 110, 1);
+  padding-top: 24px;
+  padding-right: 55px;
+}
+
+#numbers {
+  height: Hug(72px);
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: #FF5DA3;
+  margin-left: 185.5px;
+  margin-top: 16px;
+}
+
+#image2 {
+  width: 200px;
+  height: 200px;
+  gap: 0px;
+  opacity: 0px;
+  margin-left: 55px;
+}
+
+#styled {
+  width: 722px;
+  height: 160px;
+  padding: 16px;
+  border: 6px solid rgba(193, 21, 116, 1);
+  margin-left: 55px;
+  margin-top: 40px;
+  background-color: rgba(255, 222, 240, 1);
+}
+
+#h2 {
+  width: 690px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 800;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(65, 70, 81, 1);
+}
+
+#fire {
+  width: 407px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(194, 117, 18, 1);
+  margin-top: 16px;
+}
+
+#deep {
+  width: 399px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  margin-top: 8px;
+  color: rgba(194, 117, 18, 1);
+}
+
+#fungi {
+  width: 467px;
+  height: 24px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  text-align: left;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: none;
+  color: rgba(194, 117, 18, 1);
+  margin-top: 8px;
+}
+
+#styled ul li::before {
+  content: "";
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: #000;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+#styled ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: #C27512;
+}
+
+#image3 {
+  width: 298.01px;
+  height: 396px;
+  gap: 0px;
+  opacity: 0px;
+  margin-top: 24px;
+  margin-left: 55px;
+}
+
+#link {
+  width: 216px;
+  height: 32px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: Lato;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 32px;
+  text-align: left;
+  text-decoration-line: underline;
+  text-decoration-style: solid;
+  text-underline-position: from-font;
+  text-decoration-skip-ink: auto;
+  color: rgba(0, 212, 188, 1);
+  margin-left: 506px;
+  margin-top: 24px;
+}
