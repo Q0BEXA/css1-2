@@ -109,7 +109,7 @@
 
 #magicstart {
   width: 722px;
-  height: 1, 156px;
+  height: 1,156px;
   top: 1087px;
   left: 55px;
   gap: 24px;
@@ -127,9 +127,6 @@
   font-size: 40px;
   font-weight: 700;
   line-height: 48px;
-  text-align: center;
-  text-underline-position: from-font;
-  text-decoration-skip-ink: none;
   color: rgba(0, 0, 0, 1);
 }
 
@@ -145,7 +142,7 @@
   text-align: center;
   text-underline-position: from-font;
   text-decoration-skip-ink: none;
-  margin-left: 55px;
+  margin-top: 16px;
   color: rgba(65, 70, 81, 1);
 }
 
